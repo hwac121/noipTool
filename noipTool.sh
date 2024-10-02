@@ -1,11 +1,11 @@
 #!/bin/bash
 
-# Title: NO-IP Tool for Kali Linux
+# Title: NO-IP Tool
 # Version: 1.0
 # Date: Sept. 8, 2024
 # Contact: hwac121@ptorbox.onion
-
-# GitHub: https://github.com/hwac121/noipTool.git
+# Author: RJ Levesque, Jr. - Majik Cat Security
+# GitHub: https://github.com/hwac121
 
 #-----------------------------------------------------------------
 
